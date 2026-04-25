@@ -1,36 +1,109 @@
-**Privacy Policy**
+# Kebijakan Privasi
 
-RSWS Development built the RSWSmo app as a Free app. This SERVICE is provided by RSWS Development at no cost and is intended for use as is.
+RSWS Development membangun aplikasi RSWSmo sebagai aplikasi gratis. LAYANAN ini disediakan oleh RSWS Development tanpa biaya dan dimaksudkan untuk digunakan sebagaimana adanya.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Halaman ini digunakan untuk memberi tahu pengguna mengenai kebijakan kami terkait pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi jika Anda memutuskan untuk menggunakan Layanan kami.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Dengan menggunakan Layanan kami, Anda menyetujui pengumpulan dan penggunaan informasi sesuai dengan Kebijakan Privasi ini. Informasi Pribadi yang kami kumpulkan digunakan untuk menyediakan dan meningkatkan Layanan. Kami tidak akan menggunakan atau membagikan informasi Anda kecuali sebagaimana dijelaskan dalam Kebijakan Privasi ini.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at RSWSmo unless otherwise defined in this Privacy Policy.
+---
 
-**Information Collection and Use**
+## Pengumpulan dan Penggunaan Informasi
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to name, phone, address, gender, birthday. The information that I request will be collected for application functionality.
+Untuk memberikan pengalaman yang lebih baik saat menggunakan Layanan kami, kami dapat meminta Anda untuk memberikan informasi yang dapat diidentifikasi secara pribadi, termasuk namun tidak terbatas pada:
 
-**Log Data**
+- Nama  
+- Nomor telepon  
+- Alamat  
+- Jenis kelamin  
+- Tanggal lahir  
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Informasi yang kami kumpulkan akan digunakan untuk:
+- Fungsionalitas aplikasi  
+- Manajemen akun  
+- Peningkatan layanan  
 
+---
 
-**Security**
+## Penyimpanan dan Keamanan Data
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+Informasi Pribadi Anda disimpan di server yang aman dan/atau infrastruktur cloud yang dikelola oleh RSWS Development atau penyedia layanan pihak ketiga yang terpercaya.
 
-**Children’s Privacy**
+Kami menerapkan langkah-langkah keamanan yang wajar secara komersial, termasuk:
+- Enkripsi data saat transmisi (HTTPS)  
+- Kontrol akses dan autentikasi  
+- Infrastruktur server yang aman  
 
-I do not knowingly collect personally identifiable information from children. I encourage all children to never submit any personally identifiable information through the Application and/or Services. I encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+Namun, perlu diingat bahwa tidak ada metode transmisi melalui internet atau metode penyimpanan elektronik yang 100% aman, dan kami tidak dapat menjamin keamanan mutlak.
 
-**Changes to This Privacy Policy**
+---
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+## Retensi Data (Penyimpanan Data)
 
-This policy is effective as of 2023-01-01
+Kami menyimpan Informasi Pribadi Anda hanya selama diperlukan untuk:
 
-**Contact Us**
+- Menyediakan dan menjalankan Layanan  
+- Mematuhi kewajiban hukum  
+- Menyelesaikan sengketa  
+- Menegakkan perjanjian  
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sirsrswsdev@gmail.com.
+Ketentuan umum:
+- Data akun disimpan selama akun Anda masih aktif  
+- Jika Anda berhenti menggunakan Layanan, data dapat disimpan hingga maksimal **2 tahun** sejak terakhir aktif  
+- Data tertentu dapat disimpan lebih lama jika diwajibkan oleh hukum atau regulasi  
+
+---
+
+## Penghapusan Data dan Hak Pengguna
+
+Anda memiliki hak untuk meminta penghapusan Informasi Pribadi Anda.
+
+Anda dapat mengajukan permintaan penghapusan dengan:
+- Mengirim email ke: **sirsrswsdev@gmail.com**  
+- Menyertakan informasi akun (email/nomor terdaftar) untuk verifikasi  
+
+Setelah permintaan valid diterima:
+- Data Anda akan dihapus atau dianonimkan dalam waktu maksimal **30 hari**  
+- Sebagian data mungkin tetap disimpan jika diwajibkan untuk kepentingan hukum atau keamanan  
+
+---
+
+## Data Log
+
+Kami ingin memberitahukan bahwa setiap kali Anda menggunakan Layanan kami, jika terjadi kesalahan pada aplikasi, kami mengumpulkan data dan informasi (melalui produk pihak ketiga) yang disebut Data Log.
+
+Data Log ini dapat mencakup:
+- Alamat IP perangkat  
+- Nama perangkat  
+- Versi sistem operasi  
+- Konfigurasi aplikasi saat digunakan  
+- Waktu dan tanggal penggunaan  
+- Statistik lainnya  
+
+Data ini digunakan hanya untuk analisis dan peningkatan Layanan.
+
+---
+
+## Privasi Anak
+
+Kami tidak secara sengaja mengumpulkan informasi yang dapat diidentifikasi secara pribadi dari anak-anak di bawah usia 16 tahun.
+
+Jika Anda adalah orang tua atau wali dan mengetahui bahwa anak Anda telah memberikan Informasi Pribadi kepada kami, silakan hubungi kami agar kami dapat segera menghapus data tersebut.
+
+---
+
+## Perubahan Kebijakan Privasi
+
+Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Oleh karena itu, Anda disarankan untuk meninjau halaman ini secara berkala.
+
+Perubahan akan diberlakukan segera setelah dipublikasikan di halaman ini.
+
+**Tanggal berlaku:** 2023-01-01
+
+---
+
+## Hubungi Kami
+
+Jika Anda memiliki pertanyaan atau saran mengenai Kebijakan Privasi ini, silakan hubungi kami:
+
+📧 sirsrswsdev@gmail.com
